@@ -1,7 +1,7 @@
 # Ensoleilement
 
-Ce programme nous permet de calculer different parametre soletaire,
-parmit lesquels la position du soleil (L'angle d'azimut, l'angle de l'élévation), la porté d'une ombre, et l'energie reçu par une surface.
+Ce programme nous permet de calculer different paramètre solitaire,
+Parmi lesquels la position du soleil (L'angle d'azimut, l'angle de l'élévation), le porté d'une ombre, et l'énergie reçue par une surface.
 
 
 ## Execution
